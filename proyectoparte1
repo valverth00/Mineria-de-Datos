@@ -52,7 +52,7 @@ REGLAPROYECTOPARTE1 <- apriori(data3, parameter = list(support=0.2, confidence=0
 En esta regla podemos observar que se localizo una coincidencia referente a que zona es solo para la capital, por lo tanto no es de interes en analisis de todo el pais, solo ayuda en ver para la capital de guatemala, el departamento de Guatemala.
 
 
-
+En la base de datos personas se realizo la misma secuencia para generar una regla
 
 
 
